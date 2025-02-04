@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Leonardo da Vinci",
+    "description": "One of the greatest thinkers and inventors of the Renaissance. He designed early versions of the helicopter, tank, and many mechanical devices.",
+    "age": 67,
+    "active": false,
+    "birthDate": "1452-04-15",
+    "imageUrl": "https://example.com/leonardo.jpg",
+    "category": "Renaissance",
+    "hobbies": ["Painting", "Sculpting", "Anatomy", "Mechanics"],
+    "influences": {
+      "id": 101,
+      "name": "Vitruvius",
+      "occupation": "Roman architect and engineer",
+      "influentialWork": "De architectura",
+      "imageUrl": "https://example.com/vitruvius.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Isaac Newton",
+    "description": "One of the most influential scientists who formulated fundamental laws of gravity and motion.",
+    "age": 84,
+    "active": false,
+    "birthDate": "1643-01-04",
+    "imageUrl": "https://example.com/newton.jpg",
+    "category": "Physics",
+    "hobbies": ["Mathematics", "Alchemy", "Theology"],
+    "influences": {
+      "id": 102,
+      "name": "Galileo Galilei",
+      "occupation": "Scientist and astronomer",
+      "influentialWork": "Dialogo sopra i due massimi sistemi del mondo",
+      "imageUrl": "https://example.com/galileo.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Nikola Tesla",
+    "description": "Inventor and electrical engineer, known for his contributions to alternating current technology and wireless energy transmission.",
+    "age": 86,
+    "active": false,
+    "birthDate": "1856-07-10",
+    "imageUrl": "https://example.com/tesla.jpg",
+    "category": "Electricity",
+    "hobbies": ["Animal care", "Physics", "Chess"],
+    "influences": {
+      "id": 103,
+      "name": "Michael Faraday",
+      "occupation": "Physicist and chemist",
+      "influentialWork": "Electromagnetism and induction",
+      "imageUrl": "https://example.com/faraday.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Alexander Graham Bell",
+    "description": "Inventor of the telephone and a pioneer in communication technology.",
+    "age": 75,
+    "active": false,
+    "birthDate": "1847-03-03",
+    "imageUrl": "https://example.com/bell.jpg",
+    "category": "Communication",
+    "hobbies": ["Sound studies", "Education for the deaf", "Photography"],
+    "influences": {
+      "id": 104,
+      "name": "Elisha Gray",
+      "occupation": "Inventor and engineer",
+      "influentialWork": "Electrical speech transmission",
+      "imageUrl": "https://example.com/gray.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Marie Curie",
+    "description": "Pioneering researcher in radioactivity and the first woman to win a Nobel Prize.",
+    "age": 66,
+    "active": false,
+    "birthDate": "1867-11-07",
+    "imageUrl": "https://example.com/curie.jpg",
+    "category": "Chemistry",
+    "hobbies": ["Scientific research", "Reading", "Teaching"],
+    "influences": {
+      "id": 105,
+      "name": "Henri Becquerel",
+      "occupation": "Physicist",
+      "influentialWork": "Discovery of radioactivity",
+      "imageUrl": "https://example.com/becquerel.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Thomas Edison",
+    "description": "Inventor of the light bulb and founder of the first industrial research laboratory.",
+    "age": 84,
+    "active": false,
+    "birthDate": "1847-02-11",
+    "imageUrl": "https://example.com/edison.jpg",
+    "category": "Technology",
+    "hobbies": ["Inventing", "Business", "Physics"],
+    "influences": {
+      "id": 106,
+      "name": "Michael Faraday",
+      "occupation": "Scientist",
+      "influentialWork": "Electromagnetism and induction",
+      "imageUrl": "https://example.com/faraday.jpg"
+    }
+  },
+  {
+    "id": 7,
+    "name": "James Watt",
+    "description": "Improved the steam engine and contributed to the Industrial Revolution.",
+    "age": 83,
+    "active": false,
+    "birthDate": "1736-01-19",
+    "imageUrl": "https://example.com/watt.jpg",
+    "category": "Industrial Revolution",
+    "hobbies": ["Engineering", "Mathematics", "Astronomy"],
+    "influences": {
+      "id": 107,
+      "name": "Denis Papin",
+      "occupation": "Physicist",
+      "influentialWork": "Inventor of the steam pump",
+      "imageUrl": "https://example.com/papin.jpg"
+    }
+  },
+  {
+    "id": 8,
+    "name": "The Wright Brothers",
+    "description": "Inventors of the first successful powered airplane.",
+    "age": 45,
+    "active": false,
+    "birthDate": "1871-08-19",
+    "imageUrl": "https://example.com/wright.jpg",
+    "category": "Aviation",
+    "hobbies": ["Aircraft construction", "Photography", "Mechanics"],
+    "influences": {
+      "id": 108,
+      "name": "Otto Lilienthal",
+      "occupation": "Aviation pioneer",
+      "influentialWork": "Study of gliders",
+      "imageUrl": "https://example.com/lilienthal.jpg"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Steve Jobs",
+    "description": "Co-founder of Apple and pioneer in personal computing and mobile technology.",
+    "age": 56,
+    "active": false,
+    "birthDate": "1955-02-24",
+    "imageUrl": "https://example.com/jobs.jpg",
+    "category": "Computers",
+    "hobbies": ["Design", "Minimalism", "Music"],
+    "influences": {
+      "id": 109,
+      "name": "Edwin Land",
+      "occupation": "Inventor of the Polaroid camera",
+      "influentialWork": "Photography and visual technology",
+      "imageUrl": "https://example.com/land.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Alan Turing",
+    "description": "Founder of computer science and mastermind behind the Enigma code breaker.",
+    "age": 41,
+    "active": false,
+    "birthDate": "1912-06-23",
+    "imageUrl": "https://example.com/turing.jpg",
+    "category": "Computer Science",
+    "hobbies": ["Mathematics", "Cryptography", "Running"],
+    "influences": {
+      "id": 110,
+      "name": "Alonzo Church",
+      "occupation": "Mathematician and logician",
+      "influentialWork": "Lambda calculus",
+      "imageUrl": "https://example.com/church.jpg"
+    }
+  }
+]

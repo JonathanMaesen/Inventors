@@ -1,0 +1,72 @@
+[
+  {
+    "id": 101,
+    "name": "Vitruvius",
+    "occupation": "Roman architect and engineer",
+    "influentialWork": "De architectura",
+    "imageUrl": "https://example.com/vitruvius.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Galileo Galilei",
+    "occupation": "Scientist and astronomer",
+    "influentialWork": "Dialogo sopra i due massimi sistemi del mondo",
+    "imageUrl": "https://example.com/galileo.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Michael Faraday",
+    "occupation": "Physicist and chemist",
+    "influentialWork": "Electromagnetism and induction",
+    "imageUrl": "https://example.com/faraday.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Elisha Gray",
+    "occupation": "Inventor and engineer",
+    "influentialWork": "Electrical speech transmission",
+    "imageUrl": "https://example.com/gray.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Henri Becquerel",
+    "occupation": "Physicist",
+    "influentialWork": "Discovery of radioactivity",
+    "imageUrl": "https://example.com/becquerel.jpg"
+  },
+  {
+    "id": 106,
+    "name": "Michael Faraday",
+    "occupation": "Scientist",
+    "influentialWork": "Electromagnetism and induction",
+    "imageUrl": "https://example.com/faraday.jpg"
+  },
+  {
+    "id": 107,
+    "name": "Denis Papin",
+    "occupation": "Physicist",
+    "influentialWork": "Inventor of the steam pump",
+    "imageUrl": "https://example.com/papin.jpg"
+  },
+  {
+    "id": 108,
+    "name": "Otto Lilienthal",
+    "occupation": "Aviation pioneer",
+    "influentialWork": "Study of gliders",
+    "imageUrl": "https://example.com/lilienthal.jpg"
+  },
+  {
+    "id": 109,
+    "name": "Edwin Land",
+    "occupation": "Inventor of the Polaroid camera",
+    "influentialWork": "Photography and visual technology",
+    "imageUrl": "https://example.com/land.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Alonzo Church",
+    "occupation": "Mathematician and logician",
+    "influentialWork": "Lambda calculus",
+    "imageUrl": "https://example.com/church.jpg"
+  }
+]
