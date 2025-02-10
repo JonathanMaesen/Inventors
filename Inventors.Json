@@ -6,7 +6,7 @@
     "age": 67,
     "active": false,
     "birthDate": "1452-04-15",
-    "imageUrl": "https://example.com/leonardo.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Inventors/Leonardo%20da%20Vinci.webp",
     "category": "Renaissance",
     "hobbies": ["Painting", "Sculpting", "Anatomy", "Mechanics"],
     "influences": {
@@ -14,7 +14,7 @@
       "name": "Vitruvius",
       "occupation": "Roman architect and engineer",
       "influentialWork": "De architectura",
-      "imageUrl": "https://example.com/vitruvius.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Vitruvius_101.webp"
     }
   },
   {
@@ -24,7 +24,7 @@
     "age": 84,
     "active": false,
     "birthDate": "1643-01-04",
-    "imageUrl": "https://example.com/newton.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Inventors/Isaac%20Newton.webp",
     "category": "Physics",
     "hobbies": ["Mathematics", "Alchemy", "Theology"],
     "influences": {
@@ -32,7 +32,7 @@
       "name": "Galileo Galilei",
       "occupation": "Scientist and astronomer",
       "influentialWork": "Dialogo sopra i due massimi sistemi del mondo",
-      "imageUrl": "https://example.com/galileo.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Galileo%20Galilei_102.webp"
     }
   },
   {
@@ -42,7 +42,7 @@
     "age": 86,
     "active": false,
     "birthDate": "1856-07-10",
-    "imageUrl": "https://example.com/tesla.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Inventors/Nikola%20Tesla.webp",
     "category": "Electricity",
     "hobbies": ["Animal care", "Physics", "Chess"],
     "influences": {
@@ -50,7 +50,7 @@
       "name": "Michael Faraday",
       "occupation": "Physicist and chemist",
       "influentialWork": "Electromagnetism and induction",
-      "imageUrl": "https://example.com/faraday.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Michael%20Faraday_103-106.webp"
     }
   },
   {
@@ -60,7 +60,7 @@
     "age": 75,
     "active": false,
     "birthDate": "1847-03-03",
-    "imageUrl": "https://example.com/bell.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Inventors/Alexander%20Graham%20Bell.webp",
     "category": "Communication",
     "hobbies": ["Sound studies", "Education for the deaf", "Photography"],
     "influences": {
@@ -68,7 +68,7 @@
       "name": "Elisha Gray",
       "occupation": "Inventor and engineer",
       "influentialWork": "Electrical speech transmission",
-      "imageUrl": "https://example.com/gray.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Elisha%20Gray_104.webp"
     }
   },
   {
@@ -78,7 +78,7 @@
     "age": 66,
     "active": false,
     "birthDate": "1867-11-07",
-    "imageUrl": "https://example.com/curie.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Inventors/Marie%20Curie.webp",
     "category": "Chemistry",
     "hobbies": ["Scientific research", "Reading", "Teaching"],
     "influences": {
@@ -86,7 +86,7 @@
       "name": "Henri Becquerel",
       "occupation": "Physicist",
       "influentialWork": "Discovery of radioactivity",
-      "imageUrl": "https://example.com/becquerel.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Henri%20Becquerel_105.webp"
     }
   },
   {
@@ -96,7 +96,7 @@
     "age": 84,
     "active": false,
     "birthDate": "1847-02-11",
-    "imageUrl": "https://example.com/edison.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Inventors/Thomas%20Edison.webp",
     "category": "Technology",
     "hobbies": ["Inventing", "Business", "Physics"],
     "influences": {
@@ -104,7 +104,7 @@
       "name": "Michael Faraday",
       "occupation": "Scientist",
       "influentialWork": "Electromagnetism and induction",
-      "imageUrl": "https://example.com/faraday.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Michael%20Faraday_103-106.webp"
     }
   },
   {
@@ -114,7 +114,7 @@
     "age": 83,
     "active": false,
     "birthDate": "1736-01-19",
-    "imageUrl": "https://example.com/watt.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Inventors/James%20Watt.webp",
     "category": "Industrial Revolution",
     "hobbies": ["Engineering", "Mathematics", "Astronomy"],
     "influences": {
@@ -122,7 +122,7 @@
       "name": "Denis Papin",
       "occupation": "Physicist",
       "influentialWork": "Inventor of the steam pump",
-      "imageUrl": "https://example.com/papin.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Denis%20Papin_107.webp"
     }
   },
   {
@@ -132,7 +132,7 @@
     "age": 45,
     "active": false,
     "birthDate": "1871-08-19",
-    "imageUrl": "https://example.com/wright.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Inventors/The%20Wright%20Brothers.webp",
     "category": "Aviation",
     "hobbies": ["Aircraft construction", "Photography", "Mechanics"],
     "influences": {
@@ -140,7 +140,7 @@
       "name": "Otto Lilienthal",
       "occupation": "Aviation pioneer",
       "influentialWork": "Study of gliders",
-      "imageUrl": "https://example.com/lilienthal.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Otto%20Lilienthal_108.webp"
     }
   },
   {
@@ -150,7 +150,7 @@
     "age": 56,
     "active": false,
     "birthDate": "1955-02-24",
-    "imageUrl": "https://example.com/jobs.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Inventors/Steve%20Jobs.webp",
     "category": "Computers",
     "hobbies": ["Design", "Minimalism", "Music"],
     "influences": {
@@ -158,7 +158,7 @@
       "name": "Edwin Land",
       "occupation": "Inventor of the Polaroid camera",
       "influentialWork": "Photography and visual technology",
-      "imageUrl": "https://example.com/land.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Edwin%20Land_109.webp"
     }
   },
   {
@@ -168,7 +168,7 @@
     "age": 41,
     "active": false,
     "birthDate": "1912-06-23",
-    "imageUrl": "https://example.com/turing.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Inventors/Alan%20Turing.webp",
     "category": "Computer Science",
     "hobbies": ["Mathematics", "Cryptography", "Running"],
     "influences": {
@@ -176,7 +176,7 @@
       "name": "Alonzo Church",
       "occupation": "Mathematician and logician",
       "influentialWork": "Lambda calculus",
-      "imageUrl": "https://example.com/church.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Alonzo%20Church_110.webp"
     }
   }
 ]
