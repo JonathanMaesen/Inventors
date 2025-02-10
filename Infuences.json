@@ -4,69 +4,69 @@
     "name": "Vitruvius",
     "occupation": "Roman architect and engineer",
     "influentialWork": "De architectura",
-    "imageUrl": "https://example.com/vitruvius.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Vitruvius_101.webp"
   },
   {
     "id": 102,
     "name": "Galileo Galilei",
     "occupation": "Scientist and astronomer",
     "influentialWork": "Dialogo sopra i due massimi sistemi del mondo",
-    "imageUrl": "https://example.com/galileo.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Galileo%20Galilei_102.webp"
   },
   {
     "id": 103,
     "name": "Michael Faraday",
     "occupation": "Physicist and chemist",
     "influentialWork": "Electromagnetism and induction",
-    "imageUrl": "https://example.com/faraday.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Michael%20Faraday_103-106.webp"
   },
   {
     "id": 104,
     "name": "Elisha Gray",
     "occupation": "Inventor and engineer",
     "influentialWork": "Electrical speech transmission",
-    "imageUrl": "https://example.com/gray.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Elisha%20Gray_104.webp"
   },
   {
     "id": 105,
     "name": "Henri Becquerel",
     "occupation": "Physicist",
     "influentialWork": "Discovery of radioactivity",
-    "imageUrl": "https://example.com/becquerel.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Henri%20Becquerel_105.webp"
   },
   {
     "id": 106,
     "name": "Michael Faraday",
     "occupation": "Scientist",
     "influentialWork": "Electromagnetism and induction",
-    "imageUrl": "https://example.com/faraday.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Michael%20Faraday_103-106.webp"
   },
   {
     "id": 107,
     "name": "Denis Papin",
     "occupation": "Physicist",
     "influentialWork": "Inventor of the steam pump",
-    "imageUrl": "https://example.com/papin.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Denis%20Papin_107.webp"
   },
   {
     "id": 108,
     "name": "Otto Lilienthal",
     "occupation": "Aviation pioneer",
     "influentialWork": "Study of gliders",
-    "imageUrl": "https://example.com/lilienthal.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Otto%20Lilienthal_108.webp"
   },
   {
     "id": 109,
     "name": "Edwin Land",
     "occupation": "Inventor of the Polaroid camera",
     "influentialWork": "Photography and visual technology",
-    "imageUrl": "https://example.com/land.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Edwin%20Land_109.webp"
   },
   {
     "id": 110,
     "name": "Alonzo Church",
     "occupation": "Mathematician and logician",
     "influentialWork": "Lambda calculus",
-    "imageUrl": "https://example.com/church.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/JonathanMaesen/Inventors/refs/heads/main/Influences/Alonzo%20Church_110.webp"
   }
 ]
